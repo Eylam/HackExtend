@@ -9,7 +9,7 @@ public class Order
 {
     // instance variables
     private int _numOfOrder;
-    private int _numOfDishes;
+    private int _numOfDishes;///insert choocho
     private ArrayList <Integer> _orderedDishes;
     private Client _client;
     public boolean _orderOpen = false;
