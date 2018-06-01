@@ -1,9 +1,12 @@
 
 /**
- * Write a description of class Restaurant here.
+ * This application is a basic prototype for restaurant management app.</br>
+ * This class represents the restaurant and it's basic features. </br>
+ * Further developments: waiting list, client database, meal preparation time, business hours (start preparing before main relevant
+ * dishes etc.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Mordechai Szwarcfiter
+ * @version dummy_test
  */
 public class Restaurant
 {
